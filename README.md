@@ -24,3 +24,8 @@ Second part : The Core Project.
         And once the index was done and the first recipe uploaded
         everything went smooth and easy to do.
         Going along with making news pages, commiting and pushing on git made it easier to do now. Feel way more confortable.
+
+Project Completed.
+
+        The project is now done, it took aroun 1h maybe h1:20.
+        Very Cool to do it, really made me use all the things i've learned frow nom on the Fundation. It was realy fun and realy intuitive. It's realy making me wan't to go further in my learning! Awesome first project 
