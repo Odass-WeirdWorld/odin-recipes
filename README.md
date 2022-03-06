@@ -15,3 +15,4 @@ Result will show that i'm familiar with git to manage the project, and I've unde
 First part : The Beggining. 
 
         Needed to get those git comands back, thank god there is the git Basics course. 
+        But still not that "confy" with git, got to admit.
