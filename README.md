@@ -16,3 +16,11 @@ First part : The Beggining.
 
         Needed to get those git comands back, thank god there is the git Basics course. 
         But still not that "confy" with git, got to admit.
+
+Second part : The Core Project. 
+
+        Once the project started, i've been getting more at ease 
+        with the git commands. 
+        And once the index was done and the first recipe uploaded
+        everything went smooth and easy to do.
+        Going along with making news pages, commiting and pushing on git made it easier to do now. Feel way more confortable.
